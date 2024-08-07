@@ -1,4 +1,4 @@
-# Elderly Human Recognition System
+# ElderCare+: Real-Time Activity Monitoring and Alerts for Senior Well-Being
 This project is an Elderly Human Recognition System.Human Activity Recognition 70+ (HAR70+) dataset is a professionally-annotated dataset containing 18 fit-to-frail older-adult subjects (70-95 years old) wearing two 3-axial accelerometers for around 40 minutes during a semi-structured free-living protocol. The sensors were attached to the right thigh and lower back. The Project designed to handle the uploading of files of patients data , stop predictions, and retrieve results through a web interface. The system uses Flask for the backend and HTML/CSS with JavaScript for the frontend.
 
 ## Table of Contents
